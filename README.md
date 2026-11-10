@@ -55,3 +55,16 @@ Although the supplied file is named `DigiGEM_v1.xml`, its SBML `<model>` identif
 ## License
 
 This repository is released under the **MIT License**. See [LICENSE](LICENSE) for the full terms. This license applies to the repository files to the extent that the DigiGEM contributors hold the necessary rights; confirm coauthor and any third-party rights before distributing the model under this license.
+
+## Supporting Materials
+
+Additional materials accompanying the DigiGEM manuscript are available in the `supporting_materials` directory.
+
+| Directory | Contents |
+|---|---|
+| [Supplemental Figures](supporting_materials/figures/) | Supplemental figures, including objective-function sensitivity analysis and pathway response clustering. |
+| [Supplemental Tables](supporting_materials/tables/) | Supplemental tables containing additional results and analyses. |
+| [Interactive Visualizations](supporting_materials/visualizations/) | HTML visualizations supporting exploration of the DigiGEM model and results. |
+
+These materials accompany the manuscript *The Foxglove Genome-Scale Metabolic Model Reveals the Cost of Herbivory Defense* (Hageman Blair et al., submitted).
+
