@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: 'Please cite the associated submitted manuscript: Hageman Blair, R., Carroll, E., Shi, T., & Wang, Z. Q. (2026). The Foxglove Genome-Scale Metabolic Model Reveals the Cost of Herbivory Defense. Manuscript submitted.'
+title: DigiGEM - Digitalis lanata genome-scale metabolic model
+type: software
+version: 1.0.0
+repository-code: https://github.com/hageman/DigiGEM
+license: MIT
+authors:
+  - family-names: Hageman Blair
+    given-names: Rachael
+  - family-names: Carroll
+    given-names: Emily
+  - family-names: Shi
+    given-names: Tiange
+  - family-names: Wang
+    given-names: Zhen Q.

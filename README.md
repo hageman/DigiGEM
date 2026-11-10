@@ -2,7 +2,7 @@
 
 **DigiGEM** is a compartmentalized genome-scale metabolic model of *Digitalis lanata* (foxglove), developed to investigate cardenolide biosynthesis, its metabolic cost, and growth–defense tradeoffs.
 
-This repository distributes the model described in the manuscript **“The Foxglove Genome-Scale Metabolic Model Reveals the Cost of Herbivory Defense”**, by Rachael Hageman Blair, Emily Carroll, Tiange Shi, and Zhen Q. Wang. Publication metadata and DOI should be added after acceptance/publication.
+This repository distributes the model described in the manuscript **“The Foxglove Genome-Scale Metabolic Model Reveals the Cost of Herbivory Defense”**, by Rachael Hageman Blair, Emily Carroll, Tiange Shi, and Zhen Q. Wang. The manuscript is currently submitted (journal not specified).
 
 ## Files
 
@@ -44,7 +44,9 @@ The script loads the `.mat` model, sets the weighted objective, performs flux ba
 
 ## Citation and persistence
 
-Please cite the associated manuscript once its bibliographic details are available. For an archived version of these files with a citable DOI, enable Zenodo archiving for this GitHub repository and create a GitHub release (for example, `v1.0.0`). **DOI pending**; no accession number has yet been issued.
+**Suggested manuscript citation:** Hageman Blair, R., Carroll, E., Shi, T., & Wang, Z. Q. (2026). *The Foxglove Genome-Scale Metabolic Model Reveals the Cost of Herbivory Defense*. Manuscript submitted.
+
+No journal or DOI is listed while the manuscript is under review. A permanent dataset DOI may be added later if the repository is archived; no database accession number has been issued.
 
 ## Important metadata note before publication
 
@@ -52,4 +54,4 @@ Although the supplied file is named `DigiGEM_v1.xml`, its SBML `<model>` identif
 
 ## License
 
-**Not yet specified.** Please obtain agreement from all relevant rights holders and choose a license before public release. No license has been presumed or added to this package.
+This repository is released under the **MIT License**. See [LICENSE](LICENSE) for the full terms. This license applies to the repository files to the extent that the DigiGEM contributors hold the necessary rights; confirm coauthor and any third-party rights before distributing the model under this license.
